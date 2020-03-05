@@ -19,7 +19,7 @@ public class DynamicViewActivity extends AppCompatActivity {
         // Parent layout
         LinearLayout parentLayout = findViewById(R.id.layout);
 
-
+        //sample commit
         LayoutInflater layoutInflater = getLayoutInflater();
         View view;
 
